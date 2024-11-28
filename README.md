@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**sapkotahari/sapkotahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sapkotahari/sapkotahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...improving my coding skills.
-- 🌱 I’m currently learning ...Python and Git
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m currently learning Python and Git
+- 👯 I’m looking to collaborate on any project.
+- 🤔 I’m looking for help with Data Science career track.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
